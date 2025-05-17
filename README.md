@@ -26,4 +26,3 @@
 
 ```fira code
 JavaScript | TypeScript | Python | React | Node.js | MongoDB | Docker | Linux | OWASP Tools
-s
