@@ -1,10 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Simone+Y!;Full+Stack+Developer;Cybersecurity+Specialist;Secure.+Build.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Divakar+Trivedi;Full+Stack+Developer;Cybersecurity+Specialist;Secure.+Build.+Repeat." alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Portfolio-Dcoderath-green?style=for-the-badge&logo=githubpages" />
-  <img src="https://img.shields.io/badge/GitHub-Dcoderath-blue?style=for-the-badge&logo=github" />
+  <a href="https://dcoderath.github.io/Dcoderath-26/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Dcoderath" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Dcoderath-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -12,9 +16,9 @@
 ## 🧠 About Me
 
 🔹 Full Stack Developer & Cybersecurity Enthusiast  
-🔹 I enjoy building secure, scalable, and high-performance applications  
-🔹 Strong focus on secure development, threat modeling, and DevSecOps  
-🔹 Always exploring new technologies through open-source and CTFs  
+🔹 Passionate about secure, scalable software solutions  
+🔹 Skilled in DevSecOps, ethical hacking & secure APIs  
+🔹 Open-source contributor and CTF learner  
 
 ---
 
@@ -27,11 +31,11 @@
 
 ### 🛡️ Cybersecurity Tools
 - Nmap, Wireshark, Metasploit, Burp Suite, OWASP ZAP  
-- Secure REST APIs, Linux hardening, JWT Auth
+- Linux Security, JWT, OAuth2, HTTPS enforcement
 
 ### 🔧 DevOps & Tools
-- Docker, Git, GitHub Actions, NGINX, CI/CD  
-- Vercel, Heroku, Netlify, AWS EC2  
+- Docker, GitHub Actions, CI/CD, NGINX  
+- AWS EC2, Vercel, Heroku, Netlify
 
 ---
 
@@ -48,12 +52,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dcoderath&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dcoderath&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dcoderath&show_icons=true&theme=graywhite&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dcoderath&theme=graywhite&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dcoderath&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dcoderath&layout=compact&theme=graywhite&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -67,5 +71,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p> i want his 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=100&section=footer"/>
+</p>
