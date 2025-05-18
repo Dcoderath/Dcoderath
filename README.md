@@ -1,76 +1,66 @@
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Divakar+Trivedi;Full+Stack+Developer;Cybersecurity+Specialist;Secure.+Build.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Divakar+Trivedi;Full+Stack+%2B+Cybersecurity+Dev;Secure.+Build.+Repeat." alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://dcoderath.github.io/Dcoderath-26/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/Dcoderath" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Dcoderath-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Dcoderath-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-🔹 Full Stack Developer & Cybersecurity Enthusiast  
-🔹 Passionate about secure, scalable software solutions  
-🔹 Skilled in DevSecOps, ethical hacking & secure APIs  
-🔹 Open-source contributor and CTF learner  
-
----
-
-## 🚀 Tech Stack
-
-### ⚙️ Languages & Frameworks
-- JavaScript / TypeScript / Python / Bash / SQL  
-- React / Next.js / Node.js / Django / Express  
-- MongoDB / PostgreSQL / MySQL
-
-### 🛡️ Cybersecurity Tools
-- Nmap, Wireshark, Metasploit, Burp Suite, OWASP ZAP  
-- Linux Security, JWT, OAuth2, HTTPS enforcement
-
-### 🔧 DevOps & Tools
-- Docker, GitHub Actions, CI/CD, NGINX  
-- AWS EC2, Vercel, Heroku, Netlify
+- Full Stack Developer | Cybersecurity Enthusiast  
+- DevSecOps, Ethical Hacking, and Secure API Lover  
+- Open Source Contributor | CTF Explorer  
 
 ---
 
-## 💼 Projects
+## 🚀 Tech Toolbox
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🔐 **SecureAuth** | Full-stack secure login with 2FA, JWT, and RBAC | React, Node.js, MongoDB |
-| 🧠 **CyberTools** | Custom CLI tools for CTF and pentesting | Python, Bash |
-| 📊 **DevSecOps Monitor** | Real-time dashboard for logs and audits | Next.js, Express, Docker |
+**Languages & Frameworks**  
+`JavaScript` `Python` `Bash` `React` `Next.js` `Node.js` `Django`  
+
+**Cybersecurity Tools**  
+`Nmap` `Wireshark` `Burp Suite` `OWASP ZAP` `OAuth2` `JWT`  
+
+**DevOps**  
+`Docker` `GitHub Actions` `NGINX` `CI/CD` `AWS` `Vercel`  
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Key Projects
+
+| Name | Stack | Summary |
+|------|-------|---------|
+| 🔐 **SecureAuth** | React + Node | 2FA, JWT, RBAC login system |
+| 🧠 **CyberTools** | Python + Bash | CTF / Pentest CLI toolkit |
+| 📊 **DevSecOps Monitor** | Next.js + Docker | Realtime log & audit dashboard |
+
+---
+
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dcoderath&show_icons=true&theme=graywhite&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dcoderath&theme=graywhite&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dcoderath&layout=compact&theme=graywhite&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dcoderath&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dcoderath&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 ---
 
-## 🌐 Portfolio & Contact
+## 🌐 Let's Connect
 
-- 🔗 **Portfolio**: [dcoderath.github.io/Dcoderath-26](https://dcoderath.github.io/Dcoderath-26/)
-- 📫 **Email**: [trivedi@gmial.com](mailto:trivedi@gmial.com)
-- 🐙 **GitHub**: [github.com/Dcoderath](https://github.com/Dcoderath)
+- 📫 [trivedi@gmial.com](mailto:trivedi@gmial.com) *(Typo? Should be `gmail.com`?)*  
+- 🌍 [dcoderath.github.io/Dcoderath-26](https://dcoderath.github.io/Dcoderath-26/)  
+- 🐙 [github.com/Dcoderath](https://github.com/Dcoderath)
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
 </p>
