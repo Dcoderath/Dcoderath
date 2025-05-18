@@ -55,7 +55,7 @@
 
 ## 🌐 Let's Connect
 
-- 📫 [trivedi@gmial.com](mailto:trivedi@gmial.com) *(Typo? Should be `gmail.com`?)*  
+- 📫 [trivedi2693@gmial.com] 
 - 🌍 [dcoderath.github.io/Dcoderath-26](https://dcoderath.github.io/Dcoderath-26/)  
 - 🐙 [github.com/Dcoderath](https://github.com/Dcoderath)
 
