@@ -20,53 +20,13 @@
 🔹 Skilled in DevSecOps, ethical hacking & secure APIs  
 🔹 Open-source contributor and CTF learner  
 
----
 
-## 🚀 Tech Stack
 
-### ⚙️ Languages & Frameworks
-- JavaScript / TypeScript / Python / Bash / SQL  
-- React / Next.js / Node.js / Django / Express  
-- MongoDB / PostgreSQL / MySQL
 
-### 🛡️ Cybersecurity Tools
-- Nmap, Wireshark, Metasploit, Burp Suite, OWASP ZAP  
-- Linux Security, JWT, OAuth2, HTTPS enforcement
 
-### 🔧 DevOps & Tools
-- Docker, GitHub Actions, CI/CD, NGINX  
-- AWS EC2, Vercel, Heroku, Netlify
-
----
-
-## 💼 Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🔐 **SecureAuth** | Full-stack secure login with 2FA, JWT, and RBAC | React, Node.js, MongoDB |
-| 🧠 **CyberTools** | Custom CLI tools for CTF and pentesting | Python, Bash |
-| 📊 **DevSecOps Monitor** | Real-time dashboard for logs and audits | Next.js, Express, Docker |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dcoderath&show_icons=true&theme=graywhite&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dcoderath&theme=graywhite&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dcoderath&layout=compact&theme=graywhite&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🌐 Portfolio & Contact
-
-- 🔗 **Portfolio**: [dcoderath.github.io/Dcoderath-26](https://dcoderath.github.io/Dcoderath-26/)
-- 📫 **Email**: [trivedi@gmial.com](mailto:trivedi@gmial.com)
-- 🐙 **GitHub**: [github.com/Dcoderath](https://github.com/Dcoderath)
+## 🌐 Contact
+- 📫 **Email**: [trivedi2693@gmial.com](mailto:trivedi2693@gmial.com)
+  
 
 ---
 
