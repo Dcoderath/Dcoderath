@@ -1,66 +1,38 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Divakar+Trivedi;Full+Stack+%2B+Cybersecurity+Dev;Secure.+Build.+Repeat." alt="Typing SVG" />
-</h1>
+# 🦊 FoxHack
+
+> 🛡️ Hacker mode: Activated.  
+> 💻 A fox-themed tool for stealth, speed, and style.
 
 <p align="center">
-  <a href="https://dcoderath.github.io/Dcoderath-26/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/Dcoderath" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Dcoderath-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img width="200" src="./fox.svg" alt="Fox Logo"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About
 
-- Full Stack Developer | Cybersecurity Enthusiast  
-- DevSecOps, Ethical Hacking, and Secure API Lover  
-- Open Source Contributor | CTF Explorer  
+**FoxHack** is a fictional hacker toolkit with speed and agility in mind — inspired by the cunning of the fox. Built with open-source principles, designed with hacker aesthetics.
 
 ---
 
-## 🚀 Tech Toolbox
+## 👾 Hacker Aesthetic Demo (SVG)
 
-**Languages & Frameworks**  
-`JavaScript` `Python` `Bash` `React` `Next.js` `Node.js` `Django`  
+```html
+<!-- Save this in your README for GitHub or embed it on a page -->
+<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text {
+      font-family: monospace;
+      fill: #00ff00;
+      font-size: 28px;
+      animation: flicker 1.5s infinite alternate;
+    }
 
-**Cybersecurity Tools**  
-`Nmap` `Wireshark` `Burp Suite` `OWASP ZAP` `OAuth2` `JWT`  
-
-**DevOps**  
-`Docker` `GitHub Actions` `NGINX` `CI/CD` `AWS` `Vercel`  
-
----
-
-## 🛠️ Key Projects
-
-| Name | Stack | Summary |
-|------|-------|---------|
-| 🔐 **SecureAuth** | React + Node | 2FA, JWT, RBAC login system |
-| 🧠 **CyberTools** | Python + Bash | CTF / Pentest CLI toolkit |
-| 📊 **DevSecOps Monitor** | Next.js + Docker | Realtime log & audit dashboard |
-
----
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dcoderath&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dcoderath&theme=tokyonight&hide_border=true" width="45%" />
-</p>
-
----
-
-## 🌐 Let's Connect
-
-- 📫 [trivedi2693@gmial.com] 
-- 🌍 [dcoderath.github.io/Dcoderath-26](https://dcoderath.github.io/Dcoderath-26/)  
-- 🐙 [github.com/Dcoderath](https://github.com/Dcoderath)
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
-</p>
+    @keyframes flicker {
+      0%   { opacity: 1; }
+      50%  { opacity: 0.4; }
+      100% { opacity: 1; }
+    }
+  </style>
+  <text x="10" y="60">> Initializing FoxHack...</text>
+</svg>
