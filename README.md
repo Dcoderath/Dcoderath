@@ -1,6 +1,6 @@
 <blockquote>
   <em>“Exploration and curiosity are the fuels of creation.”</em>  
-  <br>— <strong style="color:green;">D.code.rath</strong>
+  <br>— <span style="color:green;"><strong>D.code.rath</strong></span>
 </blockquote>
 
 # Skills
