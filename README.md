@@ -5,8 +5,7 @@
 <h1 align="center">Hi and Welcome 👋</h1>
 
 <p align="center">
-  Welcome to <strong>CoreUnit.NET</strong> (aka Cunet) — a non-profit platform dedicated to innovation, collaboration, and fostering community connections.
-  <br>
+  Welcome to <strong>CoreUnit.NET</strong> (aka Cunet) — a non-profit platform dedicated to innovation, collaboration, and fostering community connections.  
   Since 2016, we've served as a meeting place for people passionate about technology, creativity, and teamwork.
 </p>
 
@@ -15,15 +14,13 @@
   <a href="https://coreunit.net/about/">📖 Learn More About Cunet</a>
 </p>
 
-<blockquote>
-  <em>“Exploration and curiosity are the fuels of creation.”</em><br>
-  — <span style="color:green;"><strong>D.code.rath</strong></span>
-</blockquote>
+---
 
-<h2>🔧 Skills</h2>
+> 🧠 *“At Cunet, every dev is a creator — fueled by curiosity and united by code.”*  
+> — **D.code.rath**
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,cpp,figma,github,mongodb,nextjs,py,react,stackoverflow,tailwind,ts,vscode,bash,linux,powershell,kali,python&perline=16" alt="Skill Icons">
-  </a>
-</p>
+---
+
+## 🔧 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cpp,figma,github,mongodb,nextjs,py,react,stackoverflow,tailwind,ts,vscode,bash,linux,powershell,kali,python&perline=16)](https://skillicons.dev)
