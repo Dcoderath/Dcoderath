@@ -14,19 +14,3 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,cpp,figma,github,mongodb,nextjs,py,react,stackoverflow,tailwind,ts,vscode,bash,linux,powershell,kali,python&perline=16" alt="My Skills">
 </a>
-
-# Bishop Tilting (Perspective)
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Bishop Tilting (Perspective)</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <div id="grid"></div>
-  <script src="script.js"></script>
-</body>
-</html>
