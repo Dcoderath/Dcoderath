@@ -3,7 +3,7 @@
   <div style="background-color: white; padding: 20px; border-radius: 10px; width: fit-content; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
     <blockquote>
       <em>“Exploration and curiosity are the fuels of creation.”</em><br>
-      — <span style="color:green;"><strong>D.code.rath</strong></span>
+      — <span style="color:red;"><strong>D.code.rath</strong></span>
     </blockquote>
   </div>
 </div>
@@ -14,5 +14,3 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,cpp,figma,github,mongodb,nextjs,py,react,stackoverflow,tailwind,ts,vscode,bash,linux,powershell,kali,python&perline=16" alt="My Skills">
 </a>
-
-
