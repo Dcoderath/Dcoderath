@@ -3,7 +3,7 @@
   <div style="background-color: white; padding: 20px; border-radius: 10px; width: fit-content; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
     <blockquote>
       <em>“Exploration and curiosity are the fuels of creation.”</em><br>
-      — <strong><span style="color:red;">Dcodeरथ </strong>
+      — <strong><span style="color:red;">Dcode.रथ </strong>
     </blockquote>
   </div>
 </div>
