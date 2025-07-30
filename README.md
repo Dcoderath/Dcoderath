@@ -1,5 +1,5 @@
 <!-- Visitor Counter -->
-<h2 align="center">👀 Profile Visitors</h2>
+<h2 align="center"> Profile Visitors</h2>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Dcoderath.Dcoderath&left_color=green&right_color=blue" alt="visitor badge"/>
@@ -16,7 +16,7 @@
 </div>
 
 <!-- Skills Section -->
-<h1 align="center">🛠️ Skills</h1>
+<h1 align="center"> Skills</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
